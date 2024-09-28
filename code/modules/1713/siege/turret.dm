@@ -141,7 +141,7 @@
 	if (using_turret)
 		using_turret.clear_aiming_line(src)
 		to_chat(src, SPAN_NOTICE("You have stopped using the [using_turret.name]."))
-		to_chat(src, browse(null, "window=artillery_window"))
+		src << browse(null, "window=artillery_window")
 		using_turret = null
 
 /obj/structure/turret/proc/place_user(var/mob/living/M)
@@ -248,8 +248,8 @@
 
 	var/next_shot_delay = 1
 	var/actual_azimuth = azimuth - 90
-	var/target_x = ceil(distance * cos(-actual_azimuth))
-	var/target_y = ceil(distance * sin(-actual_azimuth))
+	var/target_x = trunc(distance * cos(-actual_azimuth))
+	var/target_y = trunc(distance * sin(-actual_azimuth))
 
 	if(istype(weapons[selected_weapon], /obj/item/weapon/gun/projectile/automatic/stationary/autocannon))
 		var/obj/item/weapon/gun/projectile/automatic/stationary/autocannon/A = weapons[selected_weapon]
@@ -1313,4 +1313,46 @@
 		gunner_seat.setup(src)
 		weapons.Add(new/obj/structure/cannon/modern/tank/japanese37(src))
 		weapons.Add(new/obj/item/weapon/gun/projectile/automatic/type99/type97tank(src))
+		..()
+
+
+/obj/structure/turret/bmv1
+	turret_color = "#3d5931"
+	turret_icon = "char1_turret"
+	name = "BMV-1 mk. I"
+
+	gunner_x = 9
+	gunner_y = -2
+
+	loader_x = -9
+	loader_y = -2
+
+	New()
+		gunner_seat = new /obj/structure/bed/chair/gunner(src.loc)
+		gunner_seat.setup(src)
+		loader_seat = new /obj/structure/bed/chair/loader(src.loc)
+		loader_seat.setup(src)
+		weapons.Add(new/obj/structure/cannon/modern/tank/bmv75(src))
+		weapons.Add(new/obj/item/weapon/gun/projectile/automatic/dp28/dt28(src))
+		..()
+
+
+/obj/structure/turret/smf1
+	turret_color = "#555346"
+	turret_icon = "t34_turret"
+	name = "SMF I mod. A"
+
+	gunner_x = 9
+	gunner_y = -2
+
+	loader_x = -9
+	loader_y = -2
+
+	New()
+		gunner_seat = new /obj/structure/bed/chair/gunner(src.loc)
+		gunner_seat.setup(src)
+		loader_seat = new /obj/structure/bed/chair/loader(src.loc)
+		loader_seat.setup(src)
+		weapons.Add(new/obj/structure/cannon/modern/tank/smf75(src))
+		weapons.Add(new/obj/item/weapon/gun/projectile/automatic/dp28/dt28(src))
 		..()

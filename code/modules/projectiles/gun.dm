@@ -465,7 +465,7 @@
 
 	var/shot_recoil = next_shot_recoil / ergonomics
 
-	if(dt > firemodes[sel_mode].burst_delay)
+	if(dt >= firemodes[sel_mode].burst_delay)
 		shot_recoil /= sqrt(dt) * 2
 		if(dt * 0.5 < abs(shot_recoil) )
 			shot_recoil -= sign(shot_recoil) * dt * 0.5
@@ -486,8 +486,9 @@
 		shot_accuracy = rand(-accuracy_range, accuracy_range)
 		if (abs(shot_accuracy) < 5) // even RNjesus won’t help you get there right away
 			shot_accuracy += 5
-		if(user.m_intent != "run")
-			shot_accuracy *= 0.75
+		if (istype(user, /mob/living/human))
+			if(user.m_intent != "run")
+				shot_accuracy *= 0.75
 
 	var/shot_dispersion = clamp(shot_recoil + shot_accuracy, -40, 40)
 

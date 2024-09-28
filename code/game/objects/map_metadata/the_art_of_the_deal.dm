@@ -692,7 +692,7 @@
 /atom/proc/get_coded_loc()
 	var/a = ceil(x/22)
 	var/b = 10-Floor(y/22)
-	if (map.ID == MAP_CAMPAIGN)
+	if (map.ID == MAP_CAMPAIGN || CAMPAIGN_MAP_LIST_MAPID_OR)
 		a = ceil(x/15)
 		b = 10-Floor(y/10)
 	if (map.ID == MAP_OPERATION_FALCON)
@@ -807,6 +807,7 @@
 	anchored = TRUE
 	not_disassemblable = TRUE
 	not_movable = TRUE
+	crushable = FALSE
 
 /obj/structure/redmailbox/attackby(obj/item/I,mob/living/human/H)
 	if (istype(I,/obj/item/stack/component) && istype(map, /obj/map_metadata/art_of_the_deal))

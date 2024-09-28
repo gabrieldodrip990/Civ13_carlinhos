@@ -245,6 +245,7 @@
 	material_name = "stone"
 	protection_chance = 90
 	can_damage = FALSE
+	crushable = FALSE
 
 /obj/structure/barricade/sandstone_v
 	name = "sandstone wall"
@@ -257,6 +258,7 @@
 	material_name = "stone"
 	protection_chance = 90
 	can_damage = FALSE
+	crushable = FALSE
 
 /obj/structure/barricade/sandstone_h/crenelated
 	name = "crenelated sandstone wall"
@@ -378,6 +380,7 @@
 	maxhealth = 2709
 	material_name = "steel"
 	protection_chance = 50
+	crushable = FALSE
 
 /obj/structure/barricade/antitank/attackby(obj/item/W, mob/user)
 	if (istype(W, /obj/item/weapon/weldingtool))
@@ -401,6 +404,7 @@
 	maxhealth = 500
 	material_name = "stone"
 	protection_chance = 90
+	crushable = FALSE
 	New()
 		..()
 		icon_state = "debris[rand(1,4)]"
@@ -426,6 +430,7 @@
 	material_name = "stone"
 	protection_chance = 90
 	can_damage = FALSE
+	crushable = FALSE
 
 /obj/structure/barricade/stone_v
 	name = "stone wall"
@@ -438,6 +443,7 @@
 	material_name = "stone"
 	protection_chance = 90
 	can_damage = FALSE
+	crushable = FALSE
 
 /obj/structure/barricade/stone_h/crenelated
 	name = "crenelated stone wall"
@@ -554,6 +560,20 @@
 	else
 		return
 
+/obj/structure/barricade/stone_h/cliffside
+	name = "cliffside"
+	desc = "A cliffside. It seems like you can put a ladder on this."
+	icon = 'icons/obj/structures.dmi'
+	icon_state = "cliffside"
+	health = 30000
+	maxhealth = 30000
+	pixel_y = -4
+
+/obj/structure/barricade/stone_h/cliffside/New()
+	return
+
+/obj/structure/barricade/stone_h/cliffside/corner
+	icon_state = "cliffside_corner"
 
 /obj/structure/barricade/jap_h
 	name = "shingled stone wall"
@@ -566,6 +586,7 @@
 	material_name = "stone"
 	protection_chance = 100
 	can_damage = FALSE
+	crushable = FALSE
 
 /obj/structure/barricade/jap_h/New()
 	..()
@@ -601,6 +622,7 @@
 	material_name = "stone"
 	protection_chance = 100
 	can_damage = FALSE
+	crushable = FALSE
 
 /obj/structure/barricade/jap_h_l/New()
 	..()
@@ -636,6 +658,7 @@
 	material_name = "stone"
 	protection_chance = 100
 	can_damage = FALSE
+	crushable = FALSE
 
 /obj/structure/barricade/jap_h_r/New()
 	..()
@@ -671,6 +694,7 @@
 	material_name = "stone"
 	protection_chance = 100
 	can_damage = FALSE
+	crushable = FALSE
 
 /obj/structure/barricade/jap_v/New()
 	..()
@@ -706,6 +730,7 @@
 	material_name = "stone"
 	protection_chance = 100
 	can_damage = FALSE
+	crushable = FALSE
 
 /obj/structure/barricade/jap_v_t/New()
 	..()
@@ -741,6 +766,7 @@
 	material_name = "stone"
 	protection_chance = 100
 	can_damage = FALSE
+	crushable = FALSE
 
 /obj/structure/barricade/jap_v_b/New()
 	..()
@@ -791,6 +817,7 @@
 	protection_chance = 100
 	opacity = TRUE
 	density = TRUE
+	crushable = FALSE
 
 /obj/structure/barricade/hescobastion/New()
 	..()
@@ -896,6 +923,7 @@
 	protection_chance = 80
 	bound_width = 64
 	layer = MOB_LAYER + 0.4
+	crushable = FALSE
 
 /obj/structure/barricade/car/New()
 	..()
@@ -917,6 +945,7 @@
 	var/adjusts = TRUE
 	applies_material_colour = FALSE
 	can_damage = FALSE
+	crushable = FALSE
 
 /obj/structure/barricade/jap/check_relatives(var/update_self = FALSE, var/update_others = FALSE)
 	if (!adjusts)
@@ -984,3 +1013,4 @@
 	adjusts = TRUE
 	layer = MOB_LAYER + 0.1
 	can_damage = FALSE
+	crushable = FALSE

@@ -6,6 +6,7 @@
 	var/base_icon = "wheel_t_dark"
 	var/movement_icon = "wheel_t_dark_m"
 	layer = 2.99
+	crushable = FALSE
 	var/reversed = FALSE
 	var/obj/structure/vehicleparts/axis/axis = null
 	var/obj/structure/vehicleparts/frame/connected = null
@@ -254,6 +255,27 @@
 	icon_state = "t34_tracks_right_back"
 	base_icon = "t34_tracks_right_back"
 	movement_icon = "t34_tracks_right_back_m"
+
+/obj/structure/vehicleparts/movement/tracks/char1/left_front
+	icon = 'icons/obj/vehicles/tankparts96x96.dmi'
+	icon_state = "char1_tracks_left_front"
+	base_icon = "char1_tracks_left_front"
+	movement_icon = "char1_tracks_left_front_m"
+/obj/structure/vehicleparts/movement/tracks/char1/right_front
+	icon = 'icons/obj/vehicles/tankparts96x96.dmi'
+	icon_state = "char1_tracks_right_front"
+	base_icon = "char1_tracks_right_front"
+	movement_icon = "char1_tracks_right_front_m"
+/obj/structure/vehicleparts/movement/tracks/char1/left_back
+	icon = 'icons/obj/vehicles/tankparts96x96.dmi'
+	icon_state = "char1_tracks_left_back"
+	base_icon = "char1_tracks_left_back"
+	movement_icon = "char1_tracks_left_back_m"
+/obj/structure/vehicleparts/movement/tracks/char1/right_back
+	icon = 'icons/obj/vehicles/tankparts96x96.dmi'
+	icon_state = "char1_tracks_right_back"
+	base_icon = "char1_tracks_right_back"
+	movement_icon = "char1_tracks_right_back_m"
 
 /obj/structure/vehicleparts/movement/tracks/m41/left_front
 	icon = 'icons/obj/vehicles/tankparts96x96.dmi'
