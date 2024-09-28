@@ -1,6 +1,7 @@
 #define MAP_SPACESTATION13 "SPACESTATION13"
 
-//Vai se fuder caveirinha e o gabriel é um arrombado
+//Vai se fuder caveirinha e o gabriel Ã© um gostoso
+//cachorro11 da a bunda no matagal e para a panela, 2050 homens da panela diferente comerÃ£o e cagarÃ£o no cachorro11, cachorro11 Ã© um arrombado, cachorro11 Ã© o mais estuprado do mundo 
 /obj/map_metadata/ss13warfare
 	ID = MAP_SPACESTATION13
 	title = "Sem Sono bando de viados VS seguidores de carlinhos"
@@ -20,7 +21,7 @@
 	ordinal_age = 6
 	faction_distribution_coeffs = list(GERMAN = 100, RUSSIAN = 100)
 	battle_name = "Batalha pelo Space Station 13"
-	mission_start_message = "<font size=4>Todas as facções tem vending de armas e munição, se preparem e acabe com os Slots do Inimigo!"
+	mission_start_message = "<font size=4>Todas as facï¿½ï¿½es tem vending de armas e muniï¿½ï¿½o, se preparem e acabe com os Slots do Inimigo!"
 	faction1 = GERMAN
 	faction2 = RUSSIAN
 	valid_weather_types = list(WEATHER_NONE, WEATHER_WET, WEATHER_EXTREME)
@@ -33,7 +34,7 @@
 
 /obj/map_metadata/ss13warfare/job_enabled_specialcheck(var/datum/job/J)
 	..()
-	if (J.is_ss13 == TRUE)
+	if (J.is_ss13_training = TRUE)
 		. = TRUE
 
 /obj/map_metadata/ss13warfare/roundend_condition_def2name(define)
@@ -92,7 +93,7 @@
 
 /obj/structure/vending/ss13war
 	name = "Armas & outras coisas"
-	desc = "Vending de armas, todas de graça."
+	desc = "Vending de armas, todas de graï¿½a."
 	icon_state = "equipment_russia"
 	products = list(
 		/obj/item/weapon/gun/projectile/semiautomatic/svd = 200,
@@ -104,8 +105,6 @@
 		/obj/item/weapon/gun/projectile/submachinegun/p90 = 200,
 		/obj/item/weapon/gun/projectile/shotgun/pump/ks23 = 200,
 		/obj/item/weapon/gun/projectile/submachinegun/uzi = 200,
-		/obj/item/weapon/gun/projectile/submachinegun/victor = 200,
-		/obj/item/weapon/gun/projectile/automatic/m249 = 200,
 		/obj/item/weapon/gun/projectile/automatic/pkm = 200,
 
 		/obj/item/weapon/gun/projectile/pistol/tt30 = 200,
@@ -129,8 +128,8 @@
 )
 
 /obj/structure/vending/ss13war_ammo
-	name = "Munição"
-	desc = "Vending de munição, todas de graça."
+	name = "Muniï¿½ï¿½o"
+	desc = "Vending de muniï¿½ï¿½o, todas de graï¿½a."
 	icon_state = "equipment_russia"
 	products = list(
 		/obj/item/ammo_magazine/svd = 300,

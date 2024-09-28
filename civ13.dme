@@ -827,6 +827,7 @@
 #include "code\modules\1713\jobs\skyrim.dm"
 #include "code\modules\1713\jobs\sovafghan.dm"
 #include "code\modules\1713\jobs\spanish.dm"
+#include "code\modules\1713\jobs\ss13.dm"
 #include "code\modules\1713\jobs\starwars.dm"
 #include "code\modules\1713\jobs\superiors.dm"
 #include "code\modules\1713\jobs\tribes.dm"
@@ -1163,6 +1164,5 @@
 #include "code\processes\lighting\sources.dm"
 #include "interface\interface.dm"
 #include "interface\skin.dmf"
-#include "maps\campaign\campaign4b.dmm"
 #include "maps\special\civ_Inferno.dmm"
 // END_INCLUDE

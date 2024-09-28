@@ -6,7 +6,8 @@
 	default_language = "Portuguese"
 	spawn_location = "JoinLateSS1"
 
-	is_ss13 = TRUE
+	is_ss13_training = TRUE
+	can_be_female = TRUE
 
 	min_positions = 1
 	max_positions = 60
@@ -48,7 +49,7 @@
 	web.attackby(new/obj/item/ammo_magazine/srm, H)
 	web.attackby(new/obj/item/ammo_magazine/srm, H)
 
-	H.add_note("Role", "Você é um <b>[title]</b>, TU JA DEU A BUNDA PRA 2050 HOMENS DIFERENTES!!!1")
+	H.add_note("Role", "Vocï¿½ ï¿½ um <b>[title]</b>, TU JA DEU A BUNDA PRA 2050 HOMENS DIFERENTES!!!1")
 	H.setStat("strength", STAT_MEDIUM_HIGH)
 	H.setStat("crafting", STAT_MEDIUM_LOW)
 	H.setStat("rifle", STAT_MEDIUM_LOW)
@@ -63,6 +64,7 @@
 
 
 //Skull Skorcher << Gays do Caveirinha
+//semsono << jogadores de lol viados
 
 /datum/job/german/skullskorcher_pmc
 	title = "seguidores de carlinhos PMC"
@@ -70,7 +72,8 @@
 	default_language = "Portuguese"
 	spawn_location = "JoinLateSS2"
 
-	is_ss13 = TRUE
+	is_ss13_training = TRUE
+	can_be_female = TRUE
 
 	min_positions = 1
 	max_positions = 60
@@ -112,7 +115,7 @@
 	web.attackby(new/obj/item/ammo_magazine/srm, H)
 	web.attackby(new/obj/item/ammo_magazine/srm, H)
 
-	H.add_note("Role", "Você é um <b>[title]</b>, SALVE O MATAGAL!!!!1")
+	H.add_note("Role", "Vocï¿½ ï¿½ um <b>[title]</b>, SALVE O MATAGAL!!!!1")
 	H.setStat("strength", STAT_MEDIUM_HIGH)
 	H.setStat("crafting", STAT_MEDIUM_LOW)
 	H.setStat("rifle", STAT_MEDIUM_LOW)
@@ -133,6 +136,7 @@
 	default_language = "Portuguese"
 	spawn_location = "JoinLateSS2"
 
+	can_be_female = TRUE
 	is_ss13_training = TRUE
 
 	min_positions = 1
@@ -147,7 +151,7 @@
 //clothes
 	H.equip_to_slot_or_del(new /obj/item/weapon/radio/walkietalkie/faction2(H), slot_wear_id)
 
-	H.add_note("Role", "Você é um <b>[title]</b>, treine para lutar contra os fudidos da sem sono!!!1")
+	H.add_note("Role", "Vocï¿½ ï¿½ um <b>[title]</b>, treine para lutar contra os fudidos da sem sono!!!1")
 	H.setStat("strength", STAT_MEDIUM_HIGH)
 	H.setStat("crafting", STAT_MEDIUM_LOW)
 	H.setStat("rifle", STAT_MEDIUM_LOW)
@@ -182,7 +186,7 @@
 //clothes
 	H.equip_to_slot_or_del(new /obj/item/weapon/radio/walkietalkie/faction2(H), slot_wear_id)
 
-	H.add_note("Role", "Você é um <b>[title]</b>, treine para lutar contra os fudidos da sem sono!!!1")
+	H.add_note("Role", "Vocï¿½ ï¿½ um <b>[title]</b>, treine para lutar contra os fudidos da sem sono!!!1")
 	H.setStat("strength", STAT_MEDIUM_HIGH)
 	H.setStat("crafting", STAT_MEDIUM_LOW)
 	H.setStat("rifle", STAT_MEDIUM_LOW)
