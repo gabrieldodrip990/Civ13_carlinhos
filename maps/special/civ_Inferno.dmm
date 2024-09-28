@@ -1,0 +1,398 @@
+"aa" = (/turf/wall/indestructable,/area/caribbean/nomads/forest)
+"ab" = (/obj/covers/sandstone_wall,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"ac" = (/obj/covers/slatefloor,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"ad" = (/obj/covers/slatefloor,/obj/item/weapon/reagent_containers/glass/barrel/water,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"ae" = (/obj/covers/slatefloor,/obj/structure/props/junk,/obj/effect/decal/cleanable/vomit,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"af" = (/obj/covers/slatefloor,/obj/effect/decal/cleanable/vomit,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"ag" = (/obj/covers/slatefloor,/obj/structure/props/barrel,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"ah" = (/obj/covers/slatefloor,/obj/structure/props/bike,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"ai" = (/obj/covers/slatefloor,/obj/structure/props/junk,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"aj" = (/obj/covers/slatefloor,/obj/item/weapon/generic_MRE_trash,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"ak" = (/obj/covers/slatefloor,/obj/covers/cobblestone/stairs{dir = 4},/turf/floor/dirt,/area/caribbean/nomads/forest)
+"al" = (/obj/covers/slatefloor,/turf/wall/indestructable,/area/caribbean/nomads/forest)
+"am" = (/obj/covers/sandstone_wall,/obj/covers/slatefloor,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"an" = (/obj/covers/slatefloor,/obj/covers/slatefloor,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"ao" = (/obj/covers/slatefloor,/obj/covers/slatefloor,/obj/covers/sandstone_wall,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"ap" = (/obj/covers/slatefloor,/obj/item/weapon/cigbutt/cigarbutt,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"aq" = (/obj/covers/slatefloor,/obj/structure/props/car_wreck/truck,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"ar" = (/obj/covers/slatefloor,/obj/item/weapon/cigbutt/unfiltered,/obj/item/weapon/broken_bottle,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"as" = (/obj/covers/slatefloor,/obj/item/weapon/reagent_containers/glass/barrel/modern,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"at" = (/obj/covers/sandstone_wall,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"au" = (/obj/covers/wood,/obj/structure/simple_door/key_door/anyone/singledoor/housedoor,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"av" = (/obj/covers/slatefloor,/obj/covers/slatefloor,/obj/structure/props/barrel,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"aw" = (/obj/covers/slatefloor,/obj/covers/stonebrickfloor,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"ax" = (/obj/covers/sandstone_wall,/obj/covers/wood,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"ay" = (/obj/covers/wood,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"az" = (/obj/covers/wood,/obj/covers/sandstone_wall,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"aA" = (/obj/covers/wood,/obj/structure/closet/coffin/generic,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"aB" = (/obj/covers/wood,/obj/structure/closet/coffin/sarcophagus/gold,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"aC" = (/obj/covers/wood,/obj/structure/closet/old_coffin,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"aD" = (/obj/covers/slatefloor,/obj/structure/fountain,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"aE" = (/obj/covers/stonebrickfloor,/obj/structure/props/barrel,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"aF" = (/obj/covers/slatefloor,/obj/item/weapon/broken_bottle,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"aG" = (/obj/covers/slatefloor,/obj/covers/slatefloor,/obj/item/weapon/cigbutt/unfiltered,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"aH" = (/obj/covers/slatefloor,/obj/covers/slatefloor,/obj/item/weapon/reagent_containers/glass/barrel/modern,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"aI" = (/obj/covers/sandstone_wall,/obj/covers/slatefloor,/obj/covers/slatefloor,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"aJ" = (/obj/covers/wood,/obj/structure/closet/coffin,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"aK" = (/obj/covers/stonebrickfloor,/obj/structure/props/bike,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"aL" = (/obj/covers/stonebrickfloor,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"aM" = (/obj/covers/stonebrickfloor,/obj/item/weapon/cigbutt/unfiltered,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"aN" = (/obj/covers/stonebrickfloor,/obj/structure/props/junk,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"aO" = (/obj/covers/slatefloor,/obj/covers/slatefloor,/obj/covers/stonebrickfloor,/obj/item/weapon/cigbutt/cigarbutt,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"aP" = (/obj/covers/slatefloor,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"aQ" = (/turf/wall/indestructable,/area/caribbean/roofed/temperate)
+"aR" = (/obj/covers/slatefloor,/obj/covers/slatefloor,/obj/covers/slatefloor,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"aS" = (/obj/covers/slatefloor,/obj/covers/slatefloor,/obj/item/weapon/generic_MRE_trash,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"aT" = (/obj/covers/sandstone_wall,/obj/covers/slatefloor,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"aU" = (/obj/covers/stonebrickfloor,/obj/item/weapon/cigbutt/cigarbutt,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"aV" = (/obj/covers/slatefloor,/obj/covers/slatefloor,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"aW" = (/obj/covers/slatefloor,/obj/covers/stonebrickfloor,/obj/item/weapon/cigbutt/unfiltered,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"aX" = (/obj/covers/stonebrickfloor,/obj/covers/cobblestone/stairs{dir = 4},/turf/floor/dirt,/area/caribbean/nomads/forest)
+"aY" = (/obj/covers/stonebrickfloor,/obj/covers/stonebrickfloor,/obj/covers/cobblestone/stairs{dir = 4},/turf/floor/dirt,/area/caribbean/nomads/forest)
+"aZ" = (/obj/covers/stonebrickfloor,/obj/covers/stonebrickfloor,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"ba" = (/obj/covers/stonebrickfloor,/obj/covers/stonebrickfloor,/obj/structure/table/fancy,/obj/structure/props/hookah,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"bb" = (/obj/covers/slatefloor,/obj/covers/slatefloor,/obj/item/weapon/broken_bottle,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"bc" = (/obj/covers/wood,/obj/effect/decal/cleanable/cobweb,/obj/item/weapon/gun/projectile/shotgun/pump/remington870/brown,/obj/item/weapon/attachment/silencer/shotgun,/obj/item/clothing/accessory/storage/webbing/shotgun_bandolier/filled_buckshot,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"bd" = (/obj/covers/wood,/obj/structure/largecrate,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"be" = (/obj/covers/wood,/obj/structure/window_frame,/obj/structure/curtain/open,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"bf" = (/obj/covers/stonebrickfloor,/obj/item/weapon/generic_MRE_trash,/obj/structure/props/junk,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"bg" = (/obj/covers/stonebrickfloor,/obj/effect/decal/cleanable/cobweb,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"bh" = (/obj/covers/stonebrickfloor,/obj/item/weapon/cigbutt/unfiltered,/obj/structure/props/junk,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"bi" = (/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"bj" = (/obj/covers/stonebrickfloor,/obj/structure/barricade/tires,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"bk" = (/obj/covers/wood,/obj/structure/bed/sofa/left,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"bl" = (/obj/covers/wood,/obj/structure/bed/sofa,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"bm" = (/obj/covers/wood,/obj/structure/bed/sofa/right,/obj/effect/decal/cleanable/cobweb2,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"bn" = (/obj/covers/stonebrickfloor,/obj/item/weapon/barstool,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"bo" = (/obj/covers/stonebrickfloor,/obj/effect/decal/cleanable/cobweb2,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"bp" = (/obj/covers/slatefloor,/obj/item/weapon/cigbutt/unfiltered,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"bq" = (/obj/covers/stonebrickfloor,/obj/covers/stonebrickfloor,/obj/effect/decal/cleanable/generic,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"br" = (/obj/covers/stonebrickfloor,/obj/covers/stonebrickfloor,/obj/structure/phoneline,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"bs" = (/obj/covers/stonebrickfloor,/obj/structure/table/fancy,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"bt" = (/obj/covers/stonebrickfloor,/obj/covers/stonebrickfloor,/obj/item/weapon/barstool,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"bu" = (/obj/covers/stonebrickfloor,/obj/covers/stonebrickfloor,/obj/item/wood_ash,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"bv" = (/obj/covers/stonebrickfloor,/obj/covers/stonebrickfloor,/obj/structure/bed/chair,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"bw" = (/obj/covers/sandstone_wall,/turf/floor/dirt,/area/caribbean/roofed)
+"bx" = (/obj/covers/sandstone_wall,/obj/covers/stonebrickfloor,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"by" = (/obj/covers/slatefloor,/obj/covers/sandstone_wall,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"bz" = (/obj/structure/window_frame,/obj/structure/curtain/open,/turf/floor/dirt,/area/caribbean/roofed)
+"bA" = (/obj/covers/sandstone_wall,/obj/effect/decal/cleanable/graffiti_grove,/turf/floor/dirt,/area/caribbean/roofed)
+"bB" = (/obj/covers/slatefloor,/obj/structure/props/junk,/obj/effect/decal/cleanable/cobweb,/turf/floor/dirt,/area/caribbean/roofed)
+"bC" = (/obj/covers/sandstone_wall,/obj/covers/sandstone_wall,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"bD" = (/obj/covers/wood,/obj/structure/table/wood,/obj/item/weapon/gun/projectile/special/ak74mtactical,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"bE" = (/obj/covers/wood,/obj/structure/table/wood,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"bF" = (/obj/covers/wood,/obj/structure/table/wood,/obj/item/weapon/gun/projectile/pistol/tarus,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"bG" = (/obj/covers/stonebrickfloor,/obj/structure/bed/chair{dir = 4},/turf/floor/dirt,/area/caribbean/nomads/forest)
+"bH" = (/obj/covers/stonebrickfloor,/obj/structure/table/fancy,/obj/item/weapon/deck/cards,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"bI" = (/obj/covers/stonebrickfloor,/obj/covers/stonebrickfloor,/obj/structure/bed/chair{dir = 8},/turf/floor/dirt,/area/caribbean/nomads/forest)
+"bJ" = (/obj/covers/slatefloor,/obj/structure/barricade/tires,/turf/floor/dirt,/area/caribbean/roofed)
+"bK" = (/obj/covers/wood,/obj/machinery/slotmachine,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"bL" = (/obj/covers/wood,/obj/machinery/slotmachine,/obj/item/trash/money,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"bM" = (/obj/covers/wood,/obj/item/weapon/cigbutt/cigarbutt,/obj/structure/chemical_dispenser/drugs,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"bN" = (/obj/covers/slatefloor,/obj/structure/props/barrel,/obj/covers/sandstone_wall,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"bO" = (/obj/covers/stonebrickfloor,/obj/covers/sandstone_wall,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"bP" = (/obj/structure/goalpost,/turf/wall/indestructable,/area/caribbean/nomads/forest)
+"bQ" = (/obj/covers/stonebrickfloor,/obj/structure/bed/chair{dir = 1},/turf/floor/dirt,/area/caribbean/nomads/forest)
+"bR" = (/obj/covers/slatefloor,/obj/item/weapon/storage/bag/trash,/turf/floor/dirt,/area/caribbean/roofed)
+"bS" = (/obj/covers/wood,/obj/item/weapon/barstool,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"bT" = (/obj/covers/wood,/obj/structure/iv_drip,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"bU" = (/obj/covers/wood,/obj/structure/bookcase,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"bV" = (/obj/covers/slatefloor,/obj/item/weapon/reagent_containers/glass/barrel/modern/yellow,/obj/covers/sandstone_wall,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"bW" = (/obj/covers/slatefloor,/obj/item/weapon/reagent_containers/glass/barrel/water,/obj/covers/sandstone_wall,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"bX" = (/obj/covers/stonebrickfloor,/obj/item/weapon/reagent_containers/glass/barrel/modern,/obj/covers/sandstone_wall,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"bY" = (/obj/covers/slatefloor,/obj/item/weapon/reagent_containers/glass/barrel/modern,/obj/covers/sandstone_wall,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"bZ" = (/obj/structure/goalpost/inner,/turf/wall/indestructable,/area/caribbean/nomads/forest)
+"ca" = (/obj/covers/wood,/obj/structure/closet/fridge,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"cb" = (/obj/covers/wood,/obj/structure/chemical_dispenser/drugs,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"cc" = (/obj/covers/wood,/obj/structure/closet/cabinet,/obj/item/trash/money,/obj/item/trash/money,/obj/item/trash/money,/obj/item/trash/money,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"cd" = (/obj/covers/stonebrickfloor,/obj/effect/decal/cleanable/vomit,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"ce" = (/obj/covers/stonebrickfloor,/obj/structure/bed/chair,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"cf" = (/obj/covers/slatefloor,/obj/item/weapon/generic_MRE_trash,/turf/floor/dirt,/area/caribbean/roofed)
+"cg" = (/obj/covers/slatefloor,/turf/floor/dirt,/area/caribbean/roofed)
+"ch" = (/obj/covers/wood,/obj/covers/wood,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"ci" = (/obj/covers/wood,/obj/effect/decal/cleanable/cobweb2,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"cj" = (/obj/item/weapon/broken_bottle,/turf/wall/indestructable,/area/caribbean/nomads/forest)
+"ck" = (/obj/covers/stonebrickfloor,/obj/covers/stonebrickfloor,/obj/covers/cobblestone/stairs,/obj/effect/decal/cleanable/urine,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"cl" = (/obj/covers/stonebrickfloor,/obj/covers/cobblestone/stairs,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"cm" = (/obj/covers/stonebrickfloor,/obj/structure/table/fancy,/obj/item/weapon/cigbutt/unfiltered,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"cn" = (/obj/covers/stonebrickfloor,/obj/structure/bed/chair{dir = 8},/turf/floor/dirt,/area/caribbean/nomads/forest)
+"co" = (/obj/covers/wood,/obj/item/weapon/barstool,/obj/item/weapon/cigbutt/cigarbutt,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"cp" = (/obj/covers/wood,/obj/structure/potted_plant,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"cq" = (/obj/covers/sandstone_wall,/obj/covers/wood,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"cr" = (/obj/covers/wood,/obj/structure/table/nightstand/alt,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"cs" = (/obj/covers/wood,/obj/structure/props/stove,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"ct" = (/obj/covers/wood,/obj/structure/table/wood,/obj/item/weapon/cigbutt/cigarbutt,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"cu" = (/obj/covers/wood,/obj/structure/table/wood,/obj/item/weapon/reagent_containers/pill/cocaine_line,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"cv" = (/obj/covers/wood,/obj/structure/table/wood,/obj/item/weapon/flame/lighter,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"cw" = (/obj/covers/stonebrickfloor,/obj/covers/stonebrickfloor,/obj/item/weapon/broken_bottle,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"cx" = (/obj/covers/wood,/obj/structure/simple_door/key_door/anyone/doubledoor/steel/store_door,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"cy" = (/obj/covers/stonebrickfloor,/obj/item/weapon/broken_bottle,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"cz" = (/obj/covers/sandstone_wall,/obj/covers/stonebrickfloor,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"cA" = (/obj/covers/stonebrickfloor,/obj/effect/decal/cleanable/graffiti,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"cB" = (/obj/covers/stonebrickfloor,/obj/item/weapon/generic_MRE_trash,/obj/item/weapon/generic_MRE_trash,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"cC" = (/obj/covers/stonebrickfloor,/obj/structure/table/fancy,/obj/item/clothing/glasses/redglasses,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"cD" = (/obj/covers/slatefloor,/obj/item/trash/candle/lard,/turf/floor/dirt,/area/caribbean/roofed)
+"cE" = (/obj/covers/stonebrickfloor,/obj/covers/stonebrickfloor,/obj/structure/table/fancy,/obj/item/weapon/deck/tarot,/obj/item/wood_ash,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"cF" = (/obj/covers/wood,/obj/item/weapon/cigbutt/cigarbutt,/obj/structure/potted_plant,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"cG" = (/obj/covers/wood,/obj/structure/urinal,/obj/effect/decal/cleanable/cobweb,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"cH" = (/obj/covers/wood,/obj/structure/urinal,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"cI" = (/obj/covers/stonebrickfloor,/obj/effect/decal/cleanable/debris,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"cJ" = (/obj/covers/wood,/obj/item/weapon/cigbutt/cigarbutt,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"cK" = (/obj/covers/wood,/obj/structure/closet/cabinet,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"cL" = (/obj/covers/wood,/obj/structure/bed/padded,/obj/item/weapon/bedsheet/purple,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"cM" = (/obj/covers/sandstone_wall,/obj/covers/tatami_dark_vertical,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"cN" = (/obj/covers/sandstone_wall,/obj/structure/window_frame/sandstone,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"cO" = (/obj/covers/sandstone_wall,/obj/effect/decal/cleanable/graffiti,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"cP" = (/obj/covers/slatefloor,/obj/structure/barricade/tires,/obj/effect/decal/cleanable/cobweb2,/turf/floor/dirt,/area/caribbean/roofed)
+"cQ" = (/obj/covers/slatefloor,/obj/structure/props/junk,/turf/floor/dirt,/area/caribbean/roofed)
+"cR" = (/obj/covers/wood,/obj/structure/mailbox,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"cS" = (/obj/covers/stonebrickfloor,/obj/covers/wood,/obj/structure/closet/crate/empty/large,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"cT" = (/obj/covers/wood,/obj/structure/mailbox,/obj/effect/decal/cleanable/cobweb2,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"cU" = (/obj/covers/stonebrickfloor,/obj/structure/shelf/palette,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"cV" = (/obj/structure/camp_exportbook,/turf/wall/indestructable,/area/caribbean/nomads/forest)
+"cW" = (/obj/covers/wood,/obj/covers/wood,/obj/covers/wood,/obj/structure/toilet,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"cX" = (/obj/covers/wood,/obj/effect/decal/cleanable/urine,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"cY" = (/obj/covers/wood,/obj/structure/sink,/obj/effect/decal/cleanable/vomit,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"cZ" = (/obj/covers/stonebrickfloor,/obj/item/weapon/generic_MRE_trash,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"da" = (/obj/covers/stonebrickfloor,/obj/covers/stonebrickfloor,/obj/item/weapon/cigbutt/unfiltered,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"db" = (/obj/covers/wood,/obj/item/wood_ash,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"dc" = (/obj/covers/stonebrickfloor,/obj/structure/closet/crate/empty/large,/obj/structure/closet/crate/empty/large,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"dd" = (/obj/covers/stonebrickfloor,/obj/item/weapon/can,/obj/structure/props/junk,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"de" = (/obj/covers/stonebrickfloor,/obj/covers/stonebrickfloor,/obj/effect/decal/cleanable/mucus,/obj/effect/decal/cleanable/graffiti,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"df" = (/obj/covers/stonebrickfloor,/obj/covers/stonebrickfloor,/obj/covers/sandstone_wall,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"dg" = (/obj/covers/sandstone_wall,/obj/covers/sandstone_wall,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"dh" = (/obj/covers/stonebrickfloor,/obj/structure/closet/crate/empty/large,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"di" = (/obj/covers/stonebrickfloor,/obj/effect/decal/cleanable/generic,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"dj" = (/obj/covers/wood,/obj/structure/toilet{dir = 4},/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"dk" = (/obj/covers/wood,/obj/structure/sink,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"dl" = (/obj/covers/stonebrickfloor,/obj/effect/decal/cleanable/urine,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"dm" = (/obj/structure/window_frame/sandstone,/obj/covers/sandstone_wall,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"dn" = (/obj/covers/wood,/obj/structure/table/wood,/obj/item/weapon/storage/firstaid/surgery,/obj/item/weapon/storage/firstaid/surgery,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"do" = (/obj/covers/sandstone_wall,/obj/covers/sandstone_wall,/obj/covers/stonebrickfloor,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"dp" = (/obj/covers/wood,/obj/structure/largecrate,/obj/structure/mailbox,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"dq" = (/obj/covers/stonebrickfloor,/obj/covers/stonebrickfloor,/obj/effect/decal/cleanable/mucus,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"dr" = (/obj/covers/stonebrickfloor,/obj/covers/sandstone_wall,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"ds" = (/obj/covers/stonebrickfloor,/obj/covers/stonebrickfloor,/obj/structure/window_frame,/obj/structure/curtain/open,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"dt" = (/obj/covers/stonebrickfloor,/obj/covers/stonebrickfloor,/obj/structure/props/junk,/obj/structure/shelf/palette,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"du" = (/obj/covers/stonebrickfloor,/obj/structure/truck,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"dv" = (/obj/covers/stonebrickfloor,/obj/covers/wood,/obj/structure/window_frame,/obj/structure/curtain/open,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"dw" = (/obj/covers/stonebrickfloor,/obj/item/weapon/crowbar,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"dx" = (/obj/covers/wood,/obj/covers/wood,/obj/item/weapon/cigbutt,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"dy" = (/obj/covers/stonebrickfloor,/obj/covers/wood,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"dz" = (/obj/covers/stonebrickfloor,/obj/structure/shelf/palette,/obj/item/weapon/broken_bottle,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"dA" = (/obj/covers/stonebrickfloor,/obj/structure/phoneline,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"dB" = (/obj/covers/stonebrickfloor,/obj/covers/stonebrickfloor,/obj/covers/stonebrickfloor,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"dC" = (/obj/covers/wood,/obj/structure/props/junk,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"dD" = (/obj/covers/stonebrickfloor,/obj/item/weapon/can,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"dE" = (/obj/covers/stonebrickfloor,/obj/item/weapon/cigbutt,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"dF" = (/obj/covers/wood,/obj/covers/wood,/obj/structure/simple_door/key_door/anyone/singledoor/housedoor,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"dG" = (/obj/covers/stonebrickfloor,/obj/structure/phoneline,/obj/effect/decal/cleanable/urine,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"dH" = (/obj/covers/sandstone_wall,/obj/effect/decal/cleanable/graffiti_ballas,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"dI" = (/obj/covers/wood,/obj/structure/bed/padded,/obj/item/weapon/bedsheet/orange,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"dJ" = (/obj/covers/stonebrickfloor,/obj/item/weapon/cigbutt/unfiltered,/obj/effect/decal/cleanable/debris,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"dK" = (/obj/covers/stonebrickfloor,/obj/structure/phoneline,/obj/structure/props/junk,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"dL" = (/obj/covers/wood,/obj/structure/closet/crate/empty/large,/obj/item/wood_ash,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"dM" = (/obj/covers/wood,/obj/structure/bed/roller,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"dN" = (/obj/covers/wood,/obj/structure/optable,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"dO" = (/obj/covers/stonebrickfloor,/obj/structure/simple_door/key_door/anyone/singledoor/housedoor,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"dP" = (/obj/covers/wood,/obj/structure/bed/padded,/obj/item/weapon/bedsheet/mime,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"dQ" = (/obj/covers/stonebrickfloor,/obj/effect/decal/cleanable/blood/oil,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"dR" = (/obj/structure/window_frame,/obj/structure/curtain/open,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"dS" = (/obj/covers/wood,/obj/structure/table/wood,/obj/item/weapon/storage/firstaid/advsmall,/obj/item/weapon/storage/firstaid/advsmall,/obj/item/weapon/storage/firstaid/advsmall,/obj/item/weapon/storage/firstaid/advsmall,/obj/item/roller,/obj/item/roller,/obj/item/roller,/obj/item/roller,/obj/item/roller,/obj/item/roller,/obj/item/roller,/obj/item/roller,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"dT" = (/obj/covers/wood,/obj/structure/table/wood,/obj/item/weapon/storage/firstaid/combat/modern,/obj/item/weapon/storage/firstaid/combat/modern,/obj/item/weapon/storage/firstaid/combat/modern,/obj/item/weapon/storage/firstaid/combat/modern,/obj/item/weapon/storage/firstaid/combat/modern,/obj/item/weapon/storage/firstaid/combat/modern,/obj/item/weapon/storage/firstaid/combat/modern,/obj/item/weapon/storage/firstaid/combat/modern,/obj/item/weapon/storage/firstaid/combat/modern,/obj/item/weapon/storage/firstaid/combat/modern,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"dU" = (/obj/covers/wood,/obj/structure/vending/ss13war,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"dV" = (/obj/covers/wood,/obj/structure/closet/cabinet,/obj/item/weapon/storage/firstaid/combat/modern,/obj/item/weapon/storage/firstaid/combat/modern,/obj/item/weapon/storage/firstaid/combat/modern,/obj/item/weapon/storage/firstaid/combat/modern,/obj/item/weapon/storage/firstaid/adv,/obj/item/weapon/storage/firstaid/adv,/obj/item/weapon/storage/firstaid/adv,/obj/item/weapon/storage/firstaid/adv,/obj/item/weapon/storage/firstaid/adv,/obj/item/weapon/storage/firstaid/adv,/obj/item/weapon/storage/firstaid/adv,/obj/item/weapon/storage/firstaid/adv,/obj/item/weapon/storage/firstaid/adv,/obj/item/weapon/storage/firstaid/adv,/obj/item/weapon/storage/firstaid/adv,/obj/item/weapon/storage/firstaid/adv,/obj/item/weapon/storage/firstaid/adv,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"dW" = (/obj/covers/wood,/obj/structure/vending/ss13war_ammo,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"dX" = (/obj/covers/stonebrickfloor,/obj/structure/vending/ss13war,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"dY" = (/obj/covers/stonebrickfloor,/obj/structure/vending/ss13war_ammo,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"dZ" = (/obj/structure/bed/roller,/obj/covers/stonebrickfloor,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"ea" = (/obj/structure/table/wood,/obj/item/weapon/storage/firstaid/advsmall,/obj/item/weapon/storage/firstaid/advsmall,/obj/item/weapon/storage/firstaid/advsmall,/obj/item/weapon/storage/firstaid/advsmall,/obj/item/roller,/obj/item/roller,/obj/item/roller,/obj/item/roller,/obj/item/roller,/obj/item/roller,/obj/item/roller,/obj/item/roller,/obj/covers/stonebrickfloor,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"eb" = (/obj/covers/sandstone_wall,/obj/covers/sandstone_wall,/obj/covers/sandstone_wall,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"ec" = (/obj/structure/table/wood,/obj/item/weapon/storage/firstaid/combat/modern,/obj/item/weapon/storage/firstaid/combat/modern,/obj/item/weapon/storage/firstaid/combat/modern,/obj/item/weapon/storage/firstaid/combat/modern,/obj/item/weapon/storage/firstaid/combat/modern,/obj/item/weapon/storage/firstaid/combat/modern,/obj/item/weapon/storage/firstaid/combat/modern,/obj/item/weapon/storage/firstaid/combat/modern,/obj/item/weapon/storage/firstaid/combat/modern,/obj/item/weapon/storage/firstaid/combat/modern,/obj/covers/stonebrickfloor,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"ed" = (/obj/structure/table/wood,/obj/item/weapon/storage/firstaid/surgery,/obj/item/weapon/storage/firstaid/surgery,/obj/covers/stonebrickfloor,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"ee" = (/obj/structure/closet/cabinet,/obj/item/weapon/storage/firstaid/combat/modern,/obj/item/weapon/storage/firstaid/combat/modern,/obj/item/weapon/storage/firstaid/combat/modern,/obj/item/weapon/storage/firstaid/combat/modern,/obj/item/weapon/storage/firstaid/adv,/obj/item/weapon/storage/firstaid/adv,/obj/item/weapon/storage/firstaid/adv,/obj/item/weapon/storage/firstaid/adv,/obj/item/weapon/storage/firstaid/adv,/obj/item/weapon/storage/firstaid/adv,/obj/item/weapon/storage/firstaid/adv,/obj/item/weapon/storage/firstaid/adv,/obj/item/weapon/storage/firstaid/adv,/obj/item/weapon/storage/firstaid/adv,/obj/item/weapon/storage/firstaid/adv,/obj/item/weapon/storage/firstaid/adv,/obj/item/weapon/storage/firstaid/adv,/obj/covers/stonebrickfloor,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"ef" = (/obj/covers/wood,/turf/wall/indestructable,/area/caribbean/nomads/forest)
+"eg" = (/obj/covers/wood,/obj/covers/sandstone_wall,/obj/covers/sandstone_wall,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"eh" = (/obj/covers/wood,/obj/structure/bed/padded,/obj/item/weapon/bedsheet/medical,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"ei" = (/obj/covers/wood,/obj/structure/bedsheetbin,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"ej" = (/obj/covers/wood,/obj/structure/window_frame,/obj/structure/window_frame,/obj/structure/curtain/open,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"ek" = (/obj/covers/wood,/obj/structure/toilet{dir = 1},/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"el" = (/obj/structure/optable,/obj/covers/stonebrickfloor,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"em" = (/obj/covers/wood,/obj/effect/landmark{name = "JoinLateSS2"},/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"en" = (/obj/covers/stonebrickfloor,/obj/effect/landmark{name = "JoinLateSS1"},/turf/floor/dirt,/area/caribbean/nomads/forest)
+"eo" = (/obj/structure/window_frame,/obj/covers/wood,/obj/structure/curtain/open,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"ep" = (/obj/structure/simple_door/key_door/german{health = 99999},/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"eq" = (/obj/covers/wood,/obj/item/weapon/key/german,/obj/item/weapon/key/german,/obj/item/weapon/key/german,/obj/item/weapon/key/german,/obj/item/weapon/key/german,/obj/item/weapon/key/german,/obj/item/weapon/key/german,/obj/item/weapon/key/german,/obj/item/weapon/key/german,/obj/item/weapon/key/german,/obj/item/weapon/key/german,/obj/item/weapon/key/german,/obj/item/weapon/key/german,/obj/item/weapon/key/german,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"er" = (/obj/structure/simple_door/key_door/soviet{health = 99999},/turf/floor/dirt,/area/caribbean/nomads/forest)
+"es" = (/obj/covers/stonebrickfloor,/obj/item/weapon/key/soviet,/obj/item/weapon/key/soviet,/obj/item/weapon/key/soviet,/obj/item/weapon/key/soviet,/obj/item/weapon/key/soviet,/obj/item/weapon/key/soviet,/obj/item/weapon/key/soviet,/obj/item/weapon/key/soviet,/obj/item/weapon/key/soviet,/obj/item/weapon/key/soviet,/obj/item/weapon/key/soviet,/obj/item/weapon/key/soviet,/obj/item/weapon/key/soviet,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"eB" = (/obj/covers/sandstone_wall,/obj/covers/sandstone_wall,/obj/effect/decal/cleanable/vomit,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"eC" = (/obj/covers/stonebrickfloor,/obj/covers/stonebrickfloor,/obj/effect/decal/cleanable/vomit,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"eD" = (/obj/covers/stonebrickfloor,/obj/structure/window_frame,/obj/structure/curtain/open,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"eE" = (/obj/covers/stonebrickfloor,/obj/item/wood_ash,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"eG" = (/obj/covers/stonebrickfloor,/obj/effect/decal/cleanable/ash,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"eH" = (/obj/covers/stonebrickfloor,/obj/structure/shelf/palette,/obj/structure/props/junk,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"eM" = (/obj/structure/simple_door/key_door/anyone/singledoor/housedoor,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"eR" = (/obj/covers/wood,/obj/structure/bed/sofa/right,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"eS" = (/obj/covers/stonebrickfloor,/obj/covers/wood,/obj/structure/simple_door/key_door/anyone/singledoor/housedoor,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"eT" = (/obj/covers/wood,/obj/structure/closet/crate/empty/large,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"eU" = (/obj/covers/wood,/obj/structure/bed/padded,/obj/item/weapon/bedsheet/ce,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"eW" = (/obj/covers/stonebrickfloor,/obj/structure/bed/chair/wheelchair,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"eX" = (/obj/covers/stonebrickfloor,/obj/effect/decal/cleanable/mucus,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"eY" = (/obj/covers/stonebrickfloor,/obj/structure/props/marketstall,/obj/item/weapon/reagent_containers/food/snacks/grown/banana,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"eZ" = (/obj/covers/stonebrickfloor,/obj/structure/props/marketstall,/obj/item/weapon/reagent_containers/food/snacks/grown/orange,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"fb" = (/obj/structure/window_frame,/obj/covers/wood,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"fc" = (/obj/covers/stonebrickfloor,/obj/effect/decal/cleanable/poo,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"ff" = (/obj/covers/wood,/obj/structure/shower{dir = 4},/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"fg" = (/obj/covers/stonebrickfloor,/obj/structure/props/marketstall,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"fh" = (/obj/covers/stonebrickfloor,/obj/structure/props/marketstall,/obj/item/weapon/reagent_containers/food/snacks/grown/apple,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"fi" = (/obj/covers/stonebrickfloor,/obj/structure/props/marketstall,/obj/item/weapon/reagent_containers/food/snacks/grown/carrot,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"fj" = (/obj/covers/stonebrickfloor,/obj/structure/props/marketstall,/obj/item/weapon/reagent_containers/food/snacks/sliceable/chocolatecake,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"fk" = (/obj/covers/stonebrickfloor,/obj/structure/props/marketstall,/obj/item/weapon/reagent_containers/food/snacks/sliceable/carrotcake,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"fl" = (/obj/covers/stonebrickfloor,/obj/structure/props/marketstall,/obj/item/weapon/reagent_containers/food/snacks/sliceable/cheesecake,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"fm" = (/turf/floor/dirt,/area/caribbean/nomads/forest)
+"fo" = (/obj/covers/wood,/obj/covers/sandstone_wall,/obj/item/mirror,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"fp" = (/obj/covers/wood,/obj/structure/bed/padded,/obj/item/weapon/bedsheet/hop,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"fq" = (/obj/covers/wood,/obj/structure/bed/padded,/obj/item/weapon/bedsheet/green,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"fr" = (/obj/covers/stonebrickfloor,/obj/structure/truck,/obj/structure/props/junk,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"fs" = (/obj/covers/stonebrickfloor,/obj/covers/repairedfloor,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"fu" = (/obj/structure/window_frame,/obj/covers/stonebrickfloor,/obj/structure/curtain/open,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"fv" = (/obj/structure/window_frame,/obj/covers/stonebrickfloor,/obj/covers/wood,/obj/structure/curtain/open,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"fw" = (/obj/covers/sandstone_wall,/obj/covers/sandstone_wall,/obj/covers/wood,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"fx" = (/obj/covers/stonebrickfloor,/obj/structure/props/marketstall,/obj/item/stack/farming/seeds/apple,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"fy" = (/obj/covers/stonebrickfloor,/obj/structure/props/marketstall,/obj/item/weapon/reagent_containers/food/snacks/limecakeslice,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"fz" = (/obj/covers/stonebrickfloor,/obj/covers/stonebrickfloor,/obj/structure/props/marketstall,/obj/item/weapon/reagent_containers/food/snacks/grown/banana,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"fC" = (/obj/covers/wood,/obj/structure/shower{dir = 1},/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"fF" = (/obj/covers/sandstone_wall,/obj/item/mirror,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"fG" = (/obj/covers/stonebrickfloor,/obj/structure/bed/sofa/left,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"fH" = (/obj/covers/stonebrickfloor,/obj/structure/bed/sofa,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"fI" = (/obj/covers/stonebrickfloor,/obj/structure/bed/sofa/right,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"fJ" = (/obj/covers/stonebrickfloor,/obj/covers/stonebrickfloor,/obj/structure/props/marketstall,/obj/item/weapon/reagent_containers/food/snacks/applecakeslice,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"fK" = (/obj/covers/stonebrickfloor,/obj/structure/props/marketstall,/obj/item/weapon/reagent_containers/food/snacks/sliceable/applecake,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"fN" = (/obj/covers/wood,/obj/structure/window_frame,/obj/covers/wood,/obj/structure/curtain/open,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"fO" = (/obj/covers/stonebrickfloor,/obj/covers/stonebrickfloor,/obj/effect/decal/cleanable/poo,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"fQ" = (/obj/covers/stonebrickfloor,/obj/structure/vehicle,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"fR" = (/obj/covers/wood,/obj/structure/bed/padded,/obj/item/weapon/bedsheet/blue,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"fS" = (/obj/covers/stonebrickfloor,/obj/structure/props/marketstall,/obj/item/weapon/reagent_containers/food/snacks/appletart,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"fT" = (/obj/covers/stonebrickfloor,/obj/structure/props/marketstall,/obj/item/weapon/reagent_containers/food/snacks/donut/apple,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"fV" = (/obj/covers/cobblestone/stairs{dir = 1},/turf/floor/dirt,/area/caribbean/nomads/forest)
+"fW" = (/obj/covers/stonebrickfloor,/obj/structure/props/marketstall,/obj/item/weapon/reagent_containers/food/snacks/grown/banana,/obj/item/weapon/reagent_containers/food/snacks/grown/banana,/obj/item/weapon/reagent_containers/food/snacks/grown/banana,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"fX" = (/obj/covers/stonebrickfloor,/obj/item/wood_ash,/obj/item/weapon/generic_MRE_trash,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"fY" = (/obj/covers/wood,/obj/structure/bed/padded,/obj/covers/wood,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"fZ" = (/obj/covers/sandstone_wall,/obj/item/weapon/cigbutt/cigarbutt,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"ga" = (/obj/covers/cobblestone/stairs{dir = 8},/turf/floor/dirt,/area/caribbean/nomads/forest)
+"gb" = (/obj/covers/wood,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"gc" = (/obj/covers/wood,/obj/structure/bed/padded,/obj/item/weapon/bedsheet/red,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"gd" = (/obj/covers/cobblestone/stairs,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"ge" = (/obj/covers/stonebrickfloor,/obj/covers/stonebrickfloor,/obj/item/weapon/cigbutt/cigarbutt,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"gf" = (/obj/covers/stonebrickfloor,/obj/structure/props/marketstall,/obj/item/weapon/reagent_containers/food/snacks/applecakeslice,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"gg" = (/obj/covers/stonebrickfloor,/obj/item/weapon/flame/lighter,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"gj" = (/obj/covers/wood,/obj/structure/bed/padded,/obj/item/weapon/bedsheet/rd,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"gk" = (/obj/covers/wood,/obj/structure/bed/padded,/obj/item/weapon/bedsheet/yellow,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"gl" = (/obj/covers/wood,/obj/structure/bed/padded,/obj/item/weapon/bedsheet/brown,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"gn" = (/obj/covers/cobblestone/stairs,/obj/covers/sandstone_wall,/turf/floor/dirt,/area/caribbean/nomads/forest)
+"go" = (/obj/covers/stonebrickfloor,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+"gp" = (/obj/map_metadata/ss13warfare,/turf/wall/indestructable,/area/caribbean/nomads/forest)
+"Qr" = (/obj/covers/wood,/obj/structure/closet/cabinet,/obj/item/weapon/gun/launcher/rocket/fatman/loaded,/turf/floor/dirt,/area/caribbean/roofed/temperate)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabacacabadaeafagahacagacaiadacacakacacacakacacacabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaalamacanaoananananacanacanacacajacakacacacakacacacabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaracamapacacacacacacacapacacatatatatatatatauauabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabacacacacajaqacacacacacacacasaxayayazaAaBaCayayabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabacacamacacacacacavacacacbpasatayayayayayayayayabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaFacacacacacacacacawacajacanatayayayayayayayayababaaaaaaaaabababababababababababababababatatatatatatatatatatatatatatabababababababababab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabacanaIagacacanacacacacanacagataAaJaJaCaJayayayayabaaaaaaababaKaLaLaLaLaLaLaMaLaLaNaLaLataPaPaPaPaPaPaPaPaPaPaPaPaPataaaaaaaaaaaaaaaaaaab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabanacacacanacanaDacanacaLaLaEaTatatatatatatatauauabababababaLaLaLaLaLaLaLaLaLaLaLaUaLaLaVaPaPaPaPaPaPaPaPaPaPaPaPaPaTaaaaaaaaaaaaaaaaaaab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabananamacaGananawanacaLaLacaLacaXaLaLaLaYaLaLaLaLaLaLaLaLaLaLaZaZaLaLaLaLaLaMaLaLaLaLaLataPaPaPaPaPaPaPaPaPaPaPaPaPataaaaaaaaaaaaaaaaaaab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaamacacacanacanacanacbpaLaUacacaLaXaLaLaLaXaLaLaLaUaUaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLatatataPatatatatatatataPaPaPataaaaaaaaaaaaaaaaaaab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaambbacamaHacacaOacacaLaLacaLaLacaXaUaLaLabababababababababababababatbeazatatataLaLbfaLaLaLaLeEaLbhaLataQaQatataPaPaPataaaaaaaaaaaaaaaaaaab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabacanacacaRacacacacacacaLacaEaLaXaLaLaLabaaaaaaaaaaaaaaaaaaaaaaaaataybkblbmatbnaLaLaLaMaLaLaLaLaLaNatataQatataPaPaPataaaaaaaaaaaaaaaaaaab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabacbpamagaSanaWacaLaEaLaLacaLacaXaLaLaLabaaaaaaaaaaaaaaaaaaaaaaaaatayayayayatbsbtbubvaZaLcyaLaLbxatatatatatataPaPaPataaaaaaaaaaaaaaaaaaab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabacanbyagagaFacacaeagaLaMbbaLaUakaLaLaLbCaaaaaaaaaaaaaaaaaaaaaaaaataybDbEbFazaLaLbGbHbIaLaLbnaLatbKbLaybMatatepepatatataxaxaxaxaxaxatatab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbybybCbNbybybyaobObObObybObybOamaLaLaLabaaaaaaaaaaaaaabPaaaaaaaaatauatatatataLaLaLbQaLaLbnbabnatbSbSayayatayayayayayaxbUbUbUatbUbUbUatab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbNbNbCbVbNbybybWbybybObXbyaobYabaZaLaLabaaaaaaaaaabPbZbPaaaaaaaaataycacbccatcdaUaLaLceaLcdbtaLatbKbKayayatayayayaychayayayaychchaycibUab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacjabababababamatatatatatatatatatatatckclclabaaaaaaaaaaaaaaaaaaaaaaaaatayayayayataLaLaLbGcmcnaLaLbfatbScoaycpataychaychayayayayayayayayaybUcq
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaataycrcscaaxcacscrayataLaLaLabaaaaaaaaaaaaaaaaaaaaaaaaatayctcucvatcwaLaLaLbQaLaLaLaUcxayayayayatayayayayayayaxbUayayayayaybUcq
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaatayayayayatayayayaybecyaLaUczaaaaaaaaaaaaaaaaaaaaaaaaataybSbSbSatcAaLceaLaLcBaLaLbnatbLbLayayatataxaxaxaxauataxayayayayayaxab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaatayayayayatayayayayataLaLaLabaaaaaaaaaaaaaaaaaaaaaaaaatayayayaycxaUbGcCcnaLaLaUbncEatbSbSaycFatcGaycHaycHayaxbUayayayayaybUcq
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaatatatatayatayayayayataLaLcIczaaaaaaaaaaaaaaaaaaaaaaaaatayayaycJcxaLaLbQaLaLceaLaLbtatatatatatatayayayayayayaxatbUayayayaybUab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaatcKcLaxaycMcNauatatbxaLaLbCabaaaaaaaaaaaaaaaaaaaaaaaaatauaxaxatcOaLaLaZaZbGbHcnaLbuatbccRbdcTatatatbeatatbeatatatbUayayaybUab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaatayayayayauaLaLaLcUaUaLaLabaaaaaaaaaaaaaaaaaaaaaaaacVataycWcXcYataLcZaLdaaLbQaLaLcdcxayayayayatbgbjaLdEaLbjaLboataxayaybTaxbC
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadgatdgatatatatatatatataLaLaLaLaLaLaLabaaaaaaaaaaaaaaaaaaaaaaaaaaatayayayayatbhaLaLaLaLaLeEcZaLcxayayayayataLaLaLdiaLaLaLaLatdnayayaydMab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaatdjdkataycKatatatatcIaLaLaLaLaLaLdlabaaaaaaaaaaaaaaaaaaaaaaaaaaatdmatatatatabababczczaLaLaLcwataycRaycRataLaLaLaLaLaZaLaLdgdNaychaydSab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaatayayatayayatatataNaLaLaLaUdoabababbCaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaLaLaLaLatdpcRdpcRataLaLaZaZaLaZaZaLataxayemaydTab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaatayatataycLdgatdlaLaLaLaLaLczaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaNaLeEaLatatatatatataNaLaLaLaLaLaLaLatdUayemaydVab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaxchayatayatataUaLaLaLdrdsatdgatatataaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaLaLaLaLabaLaLabababaLduaLaLaLduaLaLatdUayemayaxab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaxayayayayaydvaLaLaLaLdrayaycrcscaataaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaLaLaLaLczaLaLabababaLaLaLaLdiaLaLaLatdWayemaybUab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaatataxatatatatataxayayayayaydrdzaLaLaLauayayayayayataaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaLeEaLaLczaLaLaLdAaLdBaZaLaLaLaLdDaLatdWayemaybUab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaatcKayayaycrcscadgbxatbxaudrdraLaLaLatatazauazazazataaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaczaLaLaMaNczaLaLaLaLdidBdEaLaLaLaLaLaLatayayayeqbUab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaatayayaxayayayayataNaNaUaLcIaLaLaLaLbxayayaydFayayataaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababczaLaLabczaLaLaLaLaLaZaZaLdGaLaLaLbqatayayatbUbUcq
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaataydIatayayaychbeaLaLaLaLaLaLaZaNaLbeayayayazayayataaaaaaaaaaaaaaaaaaaaaaaaaaaaabdAdJaLaLaLdGaLaLdKaLaLaZaZaLbraZaZaLaLaLdBaZaLaLaLaLaLaZdrepatatatatab
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaatatatatayaychayatcUaLaLaLaLaLaZaUatatayayayazayayataaaaaaaaaaaaaaaaaaaaaaaaaaaaczaNaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLabaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaatdjayaxayayayayatcIaLaLaLaLaLaLatatatdPayayazdjayataaaaaaaaaaaaaaaaaaaaaaaaaaaaczaLaLaLaZdQaLaLaLaLaMaZaLaZaNaZaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLabaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaatayayayayayaychauaLaLaLaLdQaLbxatatatatatatatatatatatatatatatataaaaaaaaaaaaaaaaczaLaLaLaLabbCababababababbwbwbwbwbzbwbwbwbwbwbAbwbwaLaLaLaLaLabaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaatatatatatatatatatatataLaLaLaLatcrcacsaxdIQrayatcscacrayayayayataaaaaaaaaaaaaaaaczaLaZaLaLababaaaaaaaaaaaabwbBbJbRcfcgbJcgbJcDcgcPbwdAaLaLaLaLabaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaatcacscrayayayayayayataLaLaLaLauayayayaxayayayatayayayayayayayataaaaaaaaaaaaaaaaabdAaLaLaMababaaaaaaaaaaaabwcgcgcgcgcgcgcgcgcgcQcgbwaNaLaLaLaLabaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaatayayayayayayayayayataLaLaLaNatayayayayayayayatayayayayayayayataaaaaaaaaaaaaaaaczaMaLaLaLababaaaaaaaaaaaabwcgcQcgcgcgcgcfcgcgcgcgbwaLaLaLaLaLabaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaatayayayayayayayayayataLaLaLbxebatatatatatatatatatatatatatayayataaaaaaaaaaaaaaaadoaLaLaLaLababaaaaaaaaaaaabwcfbJcfcgcgcgcgcgcgbJcfbwaLaLaLaLaLabaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaefaaaaaaaaatayayayayayazazazdFataLaLaLdRayayazayayayayayatayayayayatayayataaaaaaaaaaaaaaaaczaLaLaLaNababaaaaaaaaaaaabwbwbwbwcgcgbwbwcgcgbwbwbwdGaLaLaZaLczaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaatazazegayayazeheiayejaLaLaLatayayazayayayayayatekaxayayatayayataaaaaaaaaaaaaaaaczdAaLaLaLabaaaaaaaaaaaaaaababeTeTgbgbcSdbaLaLdcddaLaLaZdedfdfababaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaxdkayazayayazayayayatcIaLaLatayayatatatatbxbxatatatayayatayayatababababababababczaLaLaLaLabaaaaaaaaaaaaaaababdbgbgbgbdhgbaLaLaLaLaLaLdEdqdfdtdwabaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaxdjaydFayayazcKayayataLaLaLatayayataNaLaLdzcUdgayayayayayayayataKaLdQaLaLaNaLaLaMaZaZaLaLabaaaaaaaaaaaaaaaaabeTdbdxdygbaLaLaLaLaLaLaLaLaLbOcdcIabaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaatatatatauatatatatateBeCaZaZatauazataLaLaLaLaLdreDatatatatazauataLaLaLaLaLaLaLaLaLaLaLaLaLabaaaaaaaaaaaaaaaaabgbgbgbdyaLgbgbaLaLaLaLaLaLaLaLaLaLabaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabeEaLeGaLdzaLeGcZaLdlaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaZaZaLaLaLaLaLaLaLaLaLaLaLabaaaaaaaaaaaaaaaaabeTgbgbdhdygbaLdhaLdQaLaLdiaLdDaLaLabaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabeHaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLdAaLaLaLaLaLabaaaaaaaaaaaaaaaaabeTeTgbeTgbdbdhdhaLaLaLaLdEaLaUaLaUabaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaLaUaLaLaLaLaLaLaLaLaLaLaLdQaLaLaLaLaLaLaLaLaLaLaLaLaLababababababbCabaLaLaLaLaLaLaLabababaaaaaaaaaaaaaaaaabdCgbgbgbaLaLgbaLaLaLaLaLaLaLaLaLaNabaaaaaa
+aaaaaaaaaaaaaaaaaaaaabababababaaaaaaaaaaaaaaaaaaabcZaLaLaLaLaLaLaLaLaLaLaNaLaLaLaLaLaLaLaLcUaLaLaNaLaLaLababababababababcIaLaLaLaLaLaLaLaLabaaaaaaaaaaaaaaaaabdbgbgbaLgbeTaLaLaZaLaLaLaLaLaNaLcUabaaaaaa
+aaaaaaaaaaaaabababababeMeMeMdHababababababababababaLaLaLaLaLatatatatatbxatdRatatatatatatatatatatatatatauatatatatatatatatatatataLaLaLaLczaLabaaaaaaaaaaaaaaaaabeTdCdLdbaLdhgbaLaLaLaLaLaLaLabaLababaaaaaa
+aaaaaaaaaaaabCabababcZaLaLaLaLeraUaLaLaLaLaLaLaLaLaLaLaLaLaLdRayayayayayayayaycscrcaaychayataycacscrayayayaybkbleRayayatayayeSaLaLaLaLaLaLabaaaaaaaaaaaaaaaaababababababeTaLaLaLaLaLaLaLcyabaLcIabaaaaaa
+aaaaaaaaaaaaababababcIaLaLaLaLeraLaLaLaLaLaLaMaLaLaLaLaLaLaLateUaycKeiaxayayayayayayayayayatayayayayayayayayayayayayayatayayaxaLaLaLaLabababaaaaaaaaaaaaaaaaaaaaaaaaaaabaNdiaLaLaLdQaLaLaLabaLcyabaaaaaa
+aaaaaaaaaaaaababababaLaLaLaLdXdgatatatauatatatatatatbxaLaLaLatatatatatatayayayayayaxatatauatauatatatauatataxatatayayayatayayataLaLaLaLbheWabaaaaaaaaaaaaaaaaaaaaaaaaaaabeXeEaLaLaLaLeYeZaLabaLababababab
+aaaaaaaaaaaaabcZaLaLaUaLaLaLdXatcacscraychayayayayayataLaLaLauayayayayayayayatatatatcUcdaLaLaLaLatcKayeiaxdjdkatayayayfbayayataLaLaLaLaLaLabaaaaaaaaaaaaaaaaaaaaaaaaaaabeXaLaLaLaLfcaLaLaLaLaLaLcZababab
+aaaaaaaaaaaabCaLaLaLaLaLaLaLdYatayayayayayayatatatayazaNaLaLataxaxayayayayayayaydkataLaLaLaLaLaMatayayayaxffayatayayayatayayatdKaLaLaZaZaZabababababababababababababababaNfgfhaUcZeYfiaLaUfjfkflaNabfmab
+aaaaaaaaaaaaabaLaLaLdQaLaLaLdYeoayayayazfoayatfpcKayataLaZaLauayayayayayayayaxdjayatcIaLaLaLaLaLbxfqayayaxayayaxayayayatatatdgaLaLaLaLaLaLaNaLaLaLaLcZaLaLaLaLaLaLaUaLeEaLaLaLaLaLaLaLaLaLaLaLaLaLamfmab
+aaaaaaaaaaaaabfraLaLaLfsaLaLdZdgbkeRayazdkayateiayaybeaLaLaLatatatfuatatatatatatatataLaLaLaLaLaLbxatfvatfwayayayayayayatcIaLaUaZaZaZaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLeXaLeYfxfgaLaLfleZfyfzaLaLcZabfmab
+aaaaaaaaaaaaabababaLaLenenaLeaatayayayazdjfCaxayayayaxdlaLaLaLcdcwaZaLaLcIcIaLaLaMaLaLaZaZaZaZaLdAaLaLaLatatatdgatatatataLaLaLaLaLaLaLaLaLaLeEaLaUaLaLaLcZaLeEaNaLaLaUaLaLaLaLaLaUaLaLaLcZeEaLaLcUabfmab
+aaaaaaaaaaaaabababesaLenenaLecatatatatatatatatfFatatataLaLaLaLaLaLaLaLaLaZaLaLaLaMaLaLaLaLaLaLaLaLaLaLaLfGfHfIdAcdcyaLaLdAaLaLaLaLaLaLaLaLatatatatatatatatatatatatatatateEfJfgaNaLfhfKeYeEaLaLaLabababab
+aaaaaaaaaaaaabedfsaLaLenenaLeeatcscrayayciazdjdkatcUaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLatatfNatataLaLaLaLaLaLaLaLaLaLaLaZaLaLaLaLaLaLaLaLaLbeayayayatfqayayayeiatcscrcaataLfOaLaLaLaLaLaLaLaLaLaLabacacab
+aaaaaaaaaaaaabelaLaLaLaLaLaLaLauayayayazayazfCayataLaLaLaLaLaZaLaLaLaLaLaLaLaLaLaLaLfQatfpeifqatcUaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaZaUatfRayeiatayayayayayatayayayauaXaLaZaLaUaLaLfSfTcZfSaUbyacacab
+aaaaaaaaaaaaababababeEdQaLaLaUatazazazazayazazayataLaLaLaLaLaLdAaLaNaLaLdGaLaLaNdAcIabatayayayatdgcyaLaLaMaLaLcIdlatatbxcUaLaLaLaLaLaLaLfVdgatauatatatatatatayatayayayatababaLfWfSfhfXaLaLaLfcaLbyacacab
+aaaaaaaaaaaaaaaaaaabdGaLaLeGaLatcKeifYazayayayayeDcIaLaLaLeGczczabababababababababababatayayayatatatatatatdgatauatatbifZatataLaLaLaLaLgagbauayayayayayayayatayatayayayataLaLaLaLaLaLaLaLaLaLaLaLabacacab
+aaaaaaaaaaaaaaaaaaabcUdiaLaLaMatayayayayayayayaybxaLaLaLaLaLaLaLaLaLaLaLcIaLaKaLdQaLcyatcKayayayehcKcKgccKatatayatbibibibiataLaMaNaLaLaLgdatayayayayayayayayayayayayaydRaLaLgeaLcZeEgfeYfifhaNaLabacacab
+aaaaaaaaaaaaaaaaaaababdAaLaLaLatatatatatatatatatbxaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLaLatayayayayayayayayayatayayatatatatatdgdRatatatdRatatatatatatauatatatatatatatatatatababaLaLaLaLaLaLaLaLaLggabacacab
+aaaaaaaaaaaaaaaaaabCabaMcIaLaLaNababababababababcdaLaLaLdAczczcIcdaLaLaLaLaLaLaLaLaLaLatcKayaycKdIayaygjcKatayayatataygkayeiayaxeiayayayayglatatatayataaaaaaaaaaaaaaaaaaaaababababababababababababamabab
+aaaaaaaaaaaaaaaaaaababczaNaLaLaLaKaLaLeraLaLaLaLaLaLaLaLabababgngngngnatatatatdOatatauatatatatatatauatatatatayayatatayayayayayaxayayayayayayatatatayataaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaabababczdAaLaLaLaLaLeraLaLaLaLaLaLcyababababaaaaaaaaatgogogogoatayayayayayayayayayayayayayayayatatatatatatauatauatatatatatatatatayataaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaabababababaLaLaLaLdKeraLaLaLdAaLcIabababababaaaaaaaaatgogogogoatayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayataaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaabbCabbCababababababababababababababababababaaaaaaaaatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatatataaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+gpaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

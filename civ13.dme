@@ -503,6 +503,7 @@
 #include "code\game\objects\map_metadata\hue.dm"
 #include "code\game\objects\map_metadata\hungergames.dm"
 #include "code\game\objects\map_metadata\hunt.dm"
+#include "code\game\objects\map_metadata\inferno_ss13.dm"
 #include "code\game\objects\map_metadata\intramuros.dm"
 #include "code\game\objects\map_metadata\iwojima.dm"
 #include "code\game\objects\map_metadata\jungle_colony.dm"
@@ -538,7 +539,6 @@
 #include "code\game\objects\map_metadata\nomads_mediterranean.dm"
 #include "code\game\objects\map_metadata\nomads_mountain.dm"
 #include "code\game\objects\map_metadata\nomads_new_world.dm"
-#include "code\game\objects\map_metadata\nomads_north_america.dm"
 #include "code\game\objects\map_metadata\nomads_oceania.dm"
 #include "code\game\objects\map_metadata\nomads_pangea.dm"
 #include "code\game\objects\map_metadata\nomads_persistence_beta.dm"
@@ -1159,5 +1159,5 @@
 #include "code\processes\lighting\sources.dm"
 #include "interface\interface.dm"
 #include "interface\skin.dmf"
-#include "maps\1943\smallingrad.dmm"
+#include "maps\special\civ_Inferno.dmm"
 // END_INCLUDE
